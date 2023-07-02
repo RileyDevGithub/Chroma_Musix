@@ -15,4 +15,5 @@ Available releases:
 - Windows version (see release [version]_win.zip) You won't need to do any install shenanigans. Just the desktop app, zipped into a folder; just unzip and run "main.exe".
 
 Sincerely, Riley
-Rileydev CEO
+
+(Rileydev CEO)
